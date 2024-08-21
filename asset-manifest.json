@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Test/static/css/main.aa21c58c.css",
+    "main.js": "/Test/static/js/main.ddc33cbb.js",
+    "static/js/453.ea079f18.chunk.js": "/Test/static/js/453.ea079f18.chunk.js",
+    "static/media/NanumGothicBold.woff": "/Test/static/media/NanumGothicBold.fd745481ca4614db7434.woff",
+    "static/media/NanumGothic.woff": "/Test/static/media/NanumGothic.3bacac52f91dd2fa76b7.woff",
+    "static/media/NanumGothicExtraBold.woff": "/Test/static/media/NanumGothicExtraBold.0a474769e7de61320cfe.woff",
+    "static/media/NanumGothicLight.woff": "/Test/static/media/NanumGothicLight.63c478ec7f24225d558e.woff",
+    "static/media/focusItem0.png": "/Test/static/media/focusItem0.c2e5ff647baf9bfd744e.png",
+    "index.html": "/Test/index.html",
+    "main.aa21c58c.css.map": "/Test/static/css/main.aa21c58c.css.map",
+    "main.ddc33cbb.js.map": "/Test/static/js/main.ddc33cbb.js.map",
+    "453.ea079f18.chunk.js.map": "/Test/static/js/453.ea079f18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa21c58c.css",
+    "static/js/main.ddc33cbb.js"
+  ]
+}
