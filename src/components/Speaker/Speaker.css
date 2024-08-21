@@ -1,0 +1,20 @@
+.speaker-emoticon{
+    width: 72px;
+    height: 72px;
+    top: 32px;
+    left: 904px;
+    background-image: url('../../assets/images/speak_n.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+}
+.speaker-sound{
+    width: 72px;
+    height: 72px;
+    top: 32px;
+    left: 1000px;
+    background-image: url('../../assets/images/sound_dis.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+}

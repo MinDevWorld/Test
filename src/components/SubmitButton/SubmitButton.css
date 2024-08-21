@@ -1,0 +1,10 @@
+.btn-submit{
+    width: 72px;
+    height: 188px;
+    top: 1700px;
+    left: 1128px;
+    background-image: url('../../assets/images/btnSubmit.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+}

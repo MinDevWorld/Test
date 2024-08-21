@@ -1,0 +1,14 @@
+.btn-indicator{
+    width: 72px;
+    height: 72px;
+    top: 32px;
+    right: 32px;
+    background-image: url('../../assets/images/btnIndicator.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+}
+/* .btn-start.clicked{
+    background-image: url('../../assets/images/btnStart_s.png');
+    opacity: 0.5;
+} */

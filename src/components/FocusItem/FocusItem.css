@@ -1,0 +1,21 @@
+.focus-item {
+    position: absolute;
+    border-image-slice: 65 65 65 65;
+    border-image-width: 65px 65px 65px 65px;
+    border-image-outset: 0px 0px 0px 0px;
+    border-image-repeat: stretch stretch;
+    border-image-source: url(../../assets/images/focusItem1.png);
+    border-style: solid;
+}
+.focus-item-0 {
+    border-image-source: url(../../assets/images/focusItem0.png);
+}
+.focus-item-1 {
+    border-image-source: url(../../assets/images/focusItem1.png);
+}
+.focus-item-2 {
+    border-image-source: url(../../assets/images/focusItem2.png);
+}
+.focus-item-3 {
+    border-image-source: url(../../assets/images/focusItem3.png);
+}

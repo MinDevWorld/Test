@@ -1,0 +1,14 @@
+.btn-start{
+    width: 212px;
+    height: 80px;
+    top: 28px;
+    left: 136px;
+    background-image: url('../../assets/images/btnStart_n.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+}
+.btn-start.clicked{
+    background-image: url('../../assets/images/btnStart_s.png');
+    opacity: 0.5;
+}
